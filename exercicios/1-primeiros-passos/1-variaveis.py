@@ -5,7 +5,15 @@
 
 # Declare variáveis do tipo string
 
+nome = "Ana"
+print (nome)
+
 # Declare variáveis de cada tipo numérico
 
+idade = 25
+print (idade)
 
 # Declare uma variável do tipo booleano
+
+maior_de_idade = 18 >= 18
+print (maior_de_idade)
