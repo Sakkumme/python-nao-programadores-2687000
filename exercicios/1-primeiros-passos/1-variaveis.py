@@ -5,7 +5,8 @@
 
 # Declare variáveis do tipo string
 
-nome = "Ana"
+nome = "Ana Banana"
+
 print (nome)
 
 # Declare variáveis de cada tipo numérico
